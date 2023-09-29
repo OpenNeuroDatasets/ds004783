@@ -1,0 +1,20 @@
+{
+    "Name": "DNC",
+    "BIDSVersion": "v1.8.0",
+    "License": "",
+    "Authors": [
+        "Orgs, G",
+        "Williams, A L",
+        "Vicary, S"
+    ],
+    "Acknowledgments": "",
+    "HowToAcknowledge": "",
+    "Funding": [
+        ""
+    ],
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "DatasetDOI": ""
+}
+

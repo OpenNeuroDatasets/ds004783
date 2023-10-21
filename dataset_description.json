@@ -1,7 +1,7 @@
 {
     "Name": "DNC",
     "BIDSVersion": "v1.8.0",
-    "License": "",
+    "License": "CC0",
     "Authors": [
         "Orgs, G",
         "Williams, A L",
@@ -17,4 +17,3 @@
     ],
     "DatasetDOI": ""
 }
-

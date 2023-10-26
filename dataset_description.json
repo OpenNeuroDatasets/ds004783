@@ -3,9 +3,9 @@
     "BIDSVersion": "v1.8.0",
     "License": "CC0",
     "Authors": [
-        "Orgs, G",
         "Williams, A L",
-        "Vicary, S"
+        "Vicary, S",
+        "Orgs, G"
     ],
     "Acknowledgments": "",
     "HowToAcknowledge": "",
